@@ -46,8 +46,8 @@ PDF otomatis, dan Pesan Masuk — semuanya dapat dikelola langsung dari Dashboar
 
 ```bash
 cd C:\laragon\www
-git clone https://github.com/USERNAME/profil-company.git
-cd profil-company
+git clone https://github.com/FathirAja/PT.-ForIT-Asta-Solusindo.git
+cd PT.-ForIT-Asta-Solusindo
 ```
 ### 2. Install dependency PHP
 
