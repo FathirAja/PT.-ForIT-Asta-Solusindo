@@ -17,8 +17,8 @@
         <h6 class="fw-bold">Hubungi Kami</h6>
         <ul class="list-unstyled small">
           <li><i class="fa-solid fa-location-dot me-2"></i>Cimahi, Indonesia</li>
-          <li><i class="fa-solid fa-envelope me-2"></i>sales@sid.net.id</li>
-          <li><i class="fa-solid fa-phone me-2"></i>0821-1900-1500</li>
+          <li><i class="fa-solid fa-envelope me-2"><a href="mailto:[sales@sid.net.id]" class="footer-link-alt"></i>sales@sid.net.id</li></a>
+          <li><i class="fa-solid fa-phone me-2"><a href="https://wa.me/6282119001500" class="footer-link-alt" target="_blank"></i>0821-1900-1500</li></a>
         </ul>
       </div>
     </div>
