@@ -105,6 +105,7 @@ Buka browser: `http://127.0.0.1:8000`
 
 ## Password Admin
 
-Akun Admin default dibuat otomatis lewat perintah `php artisan migrate --seed`:
+Akun Admin default dibuat otomatis lewat perintah `php artisan migrate --seed`
+
 Email : admin@foritasta.co.id
 Password : admin123
