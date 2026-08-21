@@ -3,12 +3,12 @@
 ## Fitur
 
 ### Halaman Publik
-- Beranda — hero section, ringkasan layanan
-- Tentang Kami — profil perusahaan, visi & misi, Mitra Kami
-- Layanan — daftar layanan (Paket Metro FTTH SIDNet & Pengembangan Web), dipisah per kategori dengan pilihan paket masing-masing
-- Kontak — form kontak (tersimpan ke database)
+- Beranda hero section, ringkasan layanan
+- Tentang Kami profil perusahaan, visi & misi, Mitra Kami
+- Layanan daftar layanan (Paket Metro FTTH SIDNet & Pengembangan Web), dipisah per kategori dengan pilihan paket masing-masing
+- Kontak form kontak (tersimpan ke database)
 - Login & Register (gabungan Admin/User dalam satu form, dengan proteksi lockout otomatis)
-- **Bukti pemesanan otomatis** — setelah berlangganan paket, pelanggan mendapat halaman konfirmasi dan bisa mengunduh bukti dalam format PDF
+- **Bukti pemesanan otomatis** setelah berlangganan paket, pelanggan mendapat halaman konfirmasi dan bisa mengunduh bukti dalam format PDF
 
 ### Dashboard Admin
 - Statistik ringkas (jumlah Layanan, Paket, Pesan Masuk, Pesanan Baru)
