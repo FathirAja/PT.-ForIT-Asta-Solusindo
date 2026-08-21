@@ -1,8 +1,4 @@
-# Profil Company
-
-Website Company Profile berbasis **Laravel 12**, dengan sistem login gabungan Admin & User, 
-manajemen Layanan, Paket Berlangganan (Metro FTTH SIDNet & Pengembangan Web), bukti pemesanan 
-PDF otomatis, dan Pesan Masuk — semuanya dapat dikelola langsung dari Dashboard Admin.
+# PT. ForIT Asta Solusindo
 
 ## Fitur
 
